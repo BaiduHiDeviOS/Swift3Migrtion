@@ -1,4 +1,4 @@
-# Swift3Migrtion
+# Swift3 Migrtion
 
 [API Design Guidelines](https://swift.org/documentation/api-design-guidelines/)
 
